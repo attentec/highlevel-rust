@@ -1,0 +1,4 @@
+require_https = true
+
+[jenkins]
+server = "https://ci.attentec.se"
